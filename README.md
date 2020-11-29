@@ -1,6 +1,6 @@
 # League of Legends health bar detector
 
-## General info and intuition on how it works
+## About
 Color based algorithm I created for esportsLABgg League Vision Challenge competition. 
 
 ## Setup
